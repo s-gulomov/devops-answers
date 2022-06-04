@@ -1,0 +1,7 @@
+1. Verifying if the host ip address is correct.
+2. Verifying if the port number allowed for ssh.
+3. Checking whether given machine is active (command: ping -c3 [ip address]).
+4. Checking firewall rules.
+5. Checking whether sshd process is running (command: ps aux | grep sshd).
+6. Checking if the process sshd is listening on port 22 (command: netstat -plant | grep :22)
+7. "/etc/init.d/sshd status" command to check the status of sshd service [ubuntu:version]
