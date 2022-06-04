@@ -1,0 +1,271 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.3  0.2 171640 13456 ?        Ss   01:43   0:07 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    01:43   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   01:43   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   01:43   0:00 [rcu_par_gp]
+root           6  0.0  0.0      0     0 ?        I<   01:43   0:00 [kworker/0:0H-events_highpri]
+root           7  0.0  0.0      0     0 ?        I    01:43   0:00 [kworker/0:1-events]
+root           9  0.0  0.0      0     0 ?        I<   01:43   0:00 [mm_percpu_wq]
+root          10  0.0  0.0      0     0 ?        S    01:43   0:00 [rcu_tasks_rude_]
+root          11  0.0  0.0      0     0 ?        S    01:43   0:00 [rcu_tasks_trace]
+root          12  0.0  0.0      0     0 ?        S    01:43   0:00 [ksoftirqd/0]
+root          13  0.0  0.0      0     0 ?        I    01:43   0:01 [rcu_sched]
+root          14  0.0  0.0      0     0 ?        S    01:43   0:00 [migration/0]
+root          15  0.0  0.0      0     0 ?        S    01:43   0:00 [idle_inject/0]
+root          16  0.0  0.0      0     0 ?        S    01:43   0:00 [cpuhp/0]
+root          17  0.0  0.0      0     0 ?        S    01:43   0:00 [cpuhp/1]
+root          18  0.0  0.0      0     0 ?        S    01:43   0:00 [idle_inject/1]
+root          19  0.0  0.0      0     0 ?        S    01:43   0:00 [migration/1]
+root          20  0.0  0.0      0     0 ?        S    01:43   0:00 [ksoftirqd/1]
+root          22  0.0  0.0      0     0 ?        I<   01:43   0:00 [kworker/1:0H-events_highpri]
+root          23  0.0  0.0      0     0 ?        S    01:43   0:00 [cpuhp/2]
+root          24  0.0  0.0      0     0 ?        S    01:43   0:00 [idle_inject/2]
+root          25  0.0  0.0      0     0 ?        S    01:43   0:00 [migration/2]
+root          26  0.0  0.0      0     0 ?        S    01:43   0:00 [ksoftirqd/2]
+root          28  0.0  0.0      0     0 ?        I<   01:43   0:00 [kworker/2:0H-events_highpri]
+root          29  0.0  0.0      0     0 ?        S    01:43   0:00 [cpuhp/3]
+root          30  0.0  0.0      0     0 ?        S    01:43   0:00 [idle_inject/3]
+root          31  0.0  0.0      0     0 ?        S    01:43   0:00 [migration/3]
+root          32  0.0  0.0      0     0 ?        S    01:43   0:00 [ksoftirqd/3]
+root          34  0.0  0.0      0     0 ?        I<   01:43   0:00 [kworker/3:0H-kblockd]
+root          35  0.0  0.0      0     0 ?        S    01:43   0:00 [cpuhp/4]
+root          36  0.0  0.0      0     0 ?        S    01:43   0:00 [idle_inject/4]
+root          37  0.0  0.0      0     0 ?        S    01:43   0:00 [migration/4]
+root          38  0.0  0.0      0     0 ?        S    01:43   0:00 [ksoftirqd/4]
+root          40  0.0  0.0      0     0 ?        I<   01:43   0:00 [kworker/4:0H-kblockd]
+root          41  0.0  0.0      0     0 ?        S    01:43   0:00 [cpuhp/5]
+root          42  0.0  0.0      0     0 ?        S    01:43   0:00 [idle_inject/5]
+root          43  0.0  0.0      0     0 ?        S    01:43   0:00 [migration/5]
+root          44  0.0  0.0      0     0 ?        S    01:43   0:00 [ksoftirqd/5]
+root          46  0.0  0.0      0     0 ?        I<   01:43   0:00 [kworker/5:0H-kblockd]
+root          47  0.0  0.0      0     0 ?        S    01:43   0:00 [kdevtmpfs]
+root          48  0.0  0.0      0     0 ?        I<   01:43   0:00 [netns]
+root          49  0.0  0.0      0     0 ?        I<   01:43   0:00 [inet_frag_wq]
+root          50  0.0  0.0      0     0 ?        S    01:43   0:00 [kauditd]
+root          51  0.0  0.0      0     0 ?        S    01:43   0:00 [khungtaskd]
+root          52  0.0  0.0      0     0 ?        S    01:43   0:00 [oom_reaper]
+root          53  0.0  0.0      0     0 ?        I<   01:43   0:00 [writeback]
+root          54  0.0  0.0      0     0 ?        S    01:43   0:00 [kcompactd0]
+root          55  0.0  0.0      0     0 ?        SN   01:43   0:00 [ksmd]
+root          56  0.0  0.0      0     0 ?        SN   01:43   0:00 [khugepaged]
+root          64  0.0  0.0      0     0 ?        I    01:43   0:01 [kworker/5:1-events]
+root          71  0.0  0.0      0     0 ?        I    01:43   0:00 [kworker/1:1-events]
+root         105  0.0  0.0      0     0 ?        I<   01:43   0:00 [kintegrityd]
+root         106  0.0  0.0      0     0 ?        I<   01:43   0:00 [kblockd]
+root         107  0.0  0.0      0     0 ?        I<   01:43   0:00 [blkcg_punt_bio]
+root         108  0.0  0.0      0     0 ?        I<   01:43   0:00 [tpm_dev_wq]
+root         109  0.0  0.0      0     0 ?        I<   01:43   0:00 [ata_sff]
+root         110  0.0  0.0      0     0 ?        I<   01:43   0:00 [md]
+root         111  0.0  0.0      0     0 ?        I<   01:43   0:00 [edac-poller]
+root         112  0.0  0.0      0     0 ?        I<   01:43   0:00 [devfreq_wq]
+root         113  0.0  0.0      0     0 ?        S    01:43   0:00 [watchdogd]
+root         115  0.0  0.0      0     0 ?        I<   01:43   0:00 [kworker/0:1H-kblockd]
+root         117  0.0  0.0      0     0 ?        S    01:43   0:00 [kswapd0]
+root         118  0.0  0.0      0     0 ?        S    01:43   0:00 [ecryptfs-kthrea]
+root         120  0.0  0.0      0     0 ?        I<   01:43   0:00 [kthrotld]
+root         121  0.0  0.0      0     0 ?        I<   01:43   0:00 [acpi_thermal_pm]
+root         123  0.0  0.0      0     0 ?        S    01:44   0:00 [scsi_eh_0]
+root         124  0.0  0.0      0     0 ?        I<   01:44   0:00 [scsi_tmf_0]
+root         125  0.0  0.0      0     0 ?        S    01:44   0:00 [scsi_eh_1]
+root         126  0.0  0.0      0     0 ?        I<   01:44   0:00 [scsi_tmf_1]
+root         128  0.0  0.0      0     0 ?        I<   01:44   0:00 [vfio-irqfd-clea]
+root         129  0.0  0.0      0     0 ?        I<   01:44   0:00 [mld]
+root         130  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/2:1H-kblockd]
+root         131  0.0  0.0      0     0 ?        I<   01:44   0:00 [ipv6_addrconf]
+root         135  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/3:1-events]
+root         145  0.0  0.0      0     0 ?        I<   01:44   0:00 [kstrp]
+root         148  0.0  0.0      0     0 ?        I<   01:44   0:00 [zswap-shrink]
+root         149  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/u13:0]
+root         154  0.0  0.0      0     0 ?        I<   01:44   0:00 [charger_manager]
+root         205  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/1:1H-kblockd]
+root         209  0.0  0.0      0     0 ?        S    01:44   0:00 [scsi_eh_2]
+root         210  0.0  0.0      0     0 ?        I<   01:44   0:00 [scsi_tmf_2]
+root         214  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/5:1H-kblockd]
+root         233  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/4:1H-kblockd]
+root         234  0.0  0.0      0     0 ?        I<   01:44   0:00 [kworker/3:1H-kblockd]
+root         236  0.0  0.0      0     0 ?        S    01:44   0:00 [jbd2/sda5-8]
+root         237  0.0  0.0      0     0 ?        I<   01:44   0:00 [ext4-rsv-conver]
+root         281  0.0  0.3  53912 17960 ?        S<s  01:44   0:00 /lib/systemd/systemd-journald
+root         304  0.0  0.1  23856  7204 ?        Ss   01:44   0:00 /lib/systemd/systemd-udevd
+root         308  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop0]
+root         311  0.0  0.0      0     0 ?        I<   01:44   0:00 [ttm_swap]
+root         312  0.0  0.0      0     0 ?        S    01:44   0:00 [irq/18-vmwgfx]
+root         313  0.0  0.0      0     0 ?        S    01:44   0:00 [card0-crtc0]
+root         314  0.0  0.0      0     0 ?        S    01:44   0:00 [card0-crtc1]
+root         315  0.0  0.0      0     0 ?        S    01:44   0:00 [card0-crtc2]
+root         316  0.0  0.0      0     0 ?        S    01:44   0:00 [card0-crtc3]
+root         317  0.0  0.0      0     0 ?        S    01:44   0:00 [card0-crtc4]
+root         318  0.0  0.0      0     0 ?        S    01:44   0:00 [card0-crtc5]
+root         319  0.0  0.0      0     0 ?        S    01:44   0:00 [card0-crtc6]
+root         320  0.0  0.0      0     0 ?        S    01:44   0:00 [card0-crtc7]
+root         326  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop1]
+root         334  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop2]
+root         338  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop3]
+root         339  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop4]
+root         340  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop5]
+root         342  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop6]
+root         343  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop7]
+root         355  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop8]
+root         365  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop9]
+root         378  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop10]
+root         379  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop11]
+root         380  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop12]
+root         381  0.0  0.0      0     0 ?        I<   01:44   0:00 [iprt-VBoxWQueue]
+root         390  0.0  0.0      0     0 ?        S<   01:44   0:00 [loop13]
+root         403  0.0  0.0      0     0 ?        I<   01:44   0:00 [cryptd]
+root         635  0.0  0.0      0     0 ?        I    01:44   0:00 [kworker/2:4-events]
+systemd+     659  0.0  0.2  24264 13352 ?        Ss   01:44   0:00 /lib/systemd/systemd-resolved
+systemd+     660  0.0  0.1  90220  6076 ?        Ssl  01:44   0:00 /lib/systemd/systemd-timesyncd
+root         683  0.0  0.1 244780  9436 ?        Ssl  01:44   0:00 /usr/lib/accountsservice/accounts-daemon
+root         684  0.0  0.0   2548   768 ?        Ss   01:44   0:00 /usr/sbin/acpid
+avahi        687  0.0  0.0   8528  3316 ?        Ss   01:44   0:00 avahi-daemon: running [diamond.local]
+root         688  0.0  0.0  12288  3208 ?        Ss   01:44   0:00 /usr/sbin/cron -f
+message+     692  0.1  0.1   9888  6328 ?        Ss   01:44   0:02 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         694  0.0  0.4 341684 21952 ?        Ssl  01:44   0:01 /usr/sbin/NetworkManager --no-daemon
+root         702  0.0  0.0  81832  3484 ?        Ssl  01:44   0:00 /usr/sbin/irqbalance --foreground
+root         703  0.0  0.3  42196 20120 ?        Ss   01:44   0:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         705  0.0  0.2 248016 13492 ?        Ssl  01:44   0:01 /usr/lib/policykit-1/polkitd --no-debug
+syslog       709  0.0  0.0 224352  4748 ?        Ssl  01:44   0:00 /usr/sbin/rsyslogd -n -iNONE
+root         711  0.2  0.9 1317572 49424 ?       Ssl  01:44   0:06 /usr/lib/snapd/snapd
+root         712  0.0  0.1 238588  6716 ?        Ssl  01:44   0:00 /usr/libexec/switcheroo-control
+root         719  0.0  0.1  16724  8028 ?        Ss   01:44   0:00 /lib/systemd/systemd-logind
+root         723  0.0  0.2 395700 14632 ?        Ssl  01:44   0:00 /usr/lib/udisks2/udisksd
+root         727  0.0  0.0  13684  4804 ?        Ss   01:44   0:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        745  0.0  0.0   8348   328 ?        S    01:44   0:00 avahi-daemon: chroot helper
+root         803  0.0  0.2 313752 10300 ?        Ssl  01:44   0:00 /usr/sbin/ModemManager --filter-policy=strict
+root         811  0.0  0.2 178392 12576 ?        Ssl  01:44   0:00 /usr/sbin/cups-browsed
+root         821  0.0  0.4 120744 22924 ?        Ssl  01:44   0:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         842  0.0  0.1  31436  8756 ?        Ss   01:44   0:00 /usr/sbin/cupsd -l
+debian-+     869  0.1  1.0  65616 51204 ?        Ss   01:44   0:03 /usr/bin/tor --defaults-torrc /usr/share/tor/tor-service-defaults-torrc -f /etc/tor/torrc --RunAsDaemon 0
+whoopsie     894  0.0  0.3 253472 15760 ?        Ssl  01:44   0:00 /usr/bin/whoopsie -f
+kernoops     898  0.0  0.0  11260   444 ?        Ss   01:44   0:00 /usr/sbin/kerneloops --test
+kernoops     908  0.0  0.0  11260   444 ?        Ss   01:44   0:00 /usr/sbin/kerneloops
+root        1401  0.0  0.1 242476  8760 ?        Ssl  01:44   0:00 /usr/sbin/gdm3
+root        1405  0.0  0.0 298284  2680 ?        Sl   01:44   0:00 /usr/sbin/VBoxService --pidfile /var/run/vboxadd-service.sh
+rtkit       1438  0.0  0.0 152936  2924 ?        SNsl 01:44   0:00 /usr/libexec/rtkit-daemon
+root        1533  0.0  0.1 254980  9616 ?        Ssl  01:44   0:00 /usr/lib/upower/upowerd
+colord      1749  0.0  0.3 251840 16836 ?        Ssl  01:44   0:00 /usr/libexec/colord
+root        1795  0.0  0.1 170064  9780 ?        Sl   01:44   0:00 gdm-session-worker [pam/gdm-password]
+diamond     1803  0.0  0.2  19068 10404 ?        Ss   01:44   0:00 /lib/systemd/systemd --user
+diamond     1804  0.0  0.0 169828  4424 ?        S    01:44   0:00 (sd-pam)
+diamond     1809  0.5  0.4 2796500 20952 ?       S<sl 01:44   0:13 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+diamond     1811  0.0  0.4 587860 24576 ?        SNsl 01:44   0:00 /usr/libexec/tracker-miner-fs
+diamond     1814  0.0  0.1   8984  6144 ?        Ss   01:44   0:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+diamond     1818  0.0  0.1 243024  7612 ?        Sl   01:44   0:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+diamond     1822  0.0  0.1 242568  7896 ?        Ssl  01:44   0:00 /usr/libexec/gvfsd
+diamond     1828  0.0  0.1 382064  8444 ?        Sl   01:44   0:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+diamond     1847  0.0  0.2 394100 12624 ?        Ssl  01:44   0:00 /usr/libexec/gvfs-udisks2-volume-monitor
+diamond     1854  0.0  0.1 238744  6332 ?        Ssl  01:44   0:00 /usr/libexec/gvfs-goa-volume-monitor
+diamond     1859  0.0  0.7 550344 37276 ?        Sl   01:44   0:00 /usr/libexec/goa-daemon
+diamond     1867  0.0  0.2 321540 11804 ?        Sl   01:44   0:00 /usr/libexec/goa-identity-service
+diamond     1872  0.0  0.1 240848  7036 ?        Ssl  01:44   0:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+diamond     1876  0.0  0.1 238572  6424 ?        Ssl  01:44   0:00 /usr/libexec/gvfs-mtp-volume-monitor
+diamond     1881  0.0  0.1 319592  9160 ?        Ssl  01:44   0:00 /usr/libexec/gvfs-afc-volume-monitor
+diamond     1897  0.0  0.1 166884  6696 tty2     Ssl+ 01:44   0:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+diamond     1899  6.0  2.6 331188 135464 tty2    Sl+  01:44   2:14 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+diamond     1907  0.0  0.3 193668 15752 tty2     Sl+  01:44   0:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+diamond     1910  0.0  0.0      0     0 tty2     Z+   01:44   0:00 [opswat-client] <defunct>
+diamond     1979  0.0  0.0  25476   360 ?        S    01:44   0:00 /usr/bin/VBoxClient --clipboard
+diamond     1981  0.0  0.0 157744  4228 ?        Sl   01:44   0:00 /usr/bin/VBoxClient --clipboard
+diamond     1991  0.0  0.0  25476   360 ?        S    01:44   0:00 /usr/bin/VBoxClient --seamless
+diamond     1993  0.0  0.0 157712  2700 ?        Sl   01:44   0:00 /usr/bin/VBoxClient --seamless
+diamond     1998  0.0  0.0  25476   360 ?        S    01:44   0:00 /usr/bin/VBoxClient --draganddrop
+diamond     2000  0.2  0.0 158228  2640 ?        Sl   01:44   0:06 /usr/bin/VBoxClient --draganddrop
+diamond     2003  0.0  0.0  25476   360 ?        S    01:44   0:00 /usr/bin/VBoxClient --vmsvga
+diamond     2004  0.0  0.0 159992  3348 ?        Sl   01:44   0:00 /usr/bin/VBoxClient --vmsvga
+diamond     2013  0.0  0.0   6040   452 ?        Ss   01:44   0:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+diamond     2034  0.0  0.1 309772  9596 ?        Ssl  01:44   0:00 /usr/libexec/at-spi-bus-launcher
+diamond     2039  0.0  0.0   7244  4232 ?        S    01:44   0:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+diamond     2070  0.0  0.0  92928  4208 ?        Ssl  01:44   0:00 /usr/libexec/gnome-session-ctl --monitor
+diamond     2077  0.0  0.3 489308 17552 ?        Ssl  01:44   0:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+diamond     2091 21.1  7.7 5299592 397284 ?      Ssl  01:44   7:53 /usr/bin/gnome-shell
+diamond     2127  0.0  0.2 317576 10464 ?        Sl   01:44   0:00 ibus-daemon --panel disable --xim
+diamond     2131  0.0  0.1 169424  9396 ?        Sl   01:44   0:00 /usr/libexec/ibus-memconf
+diamond     2132  0.0  0.6 280932 33428 ?        Sl   01:44   0:02 /usr/libexec/ibus-extension-gtk3
+diamond     2134  0.0  0.5 203252 30016 ?        Sl   01:44   0:00 /usr/libexec/ibus-x11 --kill-daemon
+diamond     2136  0.0  0.1 243224  9512 ?        Sl   01:44   0:00 /usr/libexec/ibus-portal
+diamond     2148  0.0  0.1 162908  6408 ?        Sl   01:44   0:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+diamond     2152  0.0  0.0 238464  4584 ?        Ssl  01:44   0:00 /usr/libexec/xdg-permission-store
+diamond     2154  0.0  0.3 581724 19976 ?        Sl   01:44   0:00 /usr/libexec/gnome-shell-calendar-server
+diamond     2163  0.0  0.5 393268 26060 ?        Ssl  01:44   0:00 /usr/libexec/evolution-source-registry
+diamond     2173  0.0  0.5 841640 29960 ?        Ssl  01:44   0:00 /usr/libexec/evolution-calendar-factory
+diamond     2182  0.0  0.1 156224  5800 ?        Sl   01:44   0:00 /usr/libexec/dconf-service
+diamond     2185  0.0  0.5 750008 29668 ?        Ssl  01:44   0:00 /usr/libexec/evolution-addressbook-factory
+diamond     2200  0.0  0.5 2798224 27104 ?       Sl   01:44   0:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+diamond     2217  0.0  0.2 320544 11332 ?        Sl   01:44   0:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+diamond     2226  0.0  0.1 316752  9432 ?        Ssl  01:44   0:00 /usr/libexec/gsd-a11y-settings
+diamond     2227  0.0  0.6 499444 30784 ?        Ssl  01:44   0:00 /usr/libexec/gsd-color
+diamond     2229  0.0  0.3 377196 17452 ?        Ssl  01:44   0:00 /usr/libexec/gsd-datetime
+diamond     2231  0.0  0.1 317104  9788 ?        Ssl  01:44   0:00 /usr/libexec/gsd-housekeeping
+diamond     2233  0.0  0.5 351144 30564 ?        Ssl  01:44   0:00 /usr/libexec/gsd-keyboard
+diamond     2234  0.0  0.6 906372 33276 ?        Ssl  01:44   0:00 /usr/libexec/gsd-media-keys
+diamond     2236  0.0  0.6 425284 31068 ?        Ssl  01:44   0:00 /usr/libexec/gsd-power
+diamond     2238  0.0  0.2 251088 11500 ?        Ssl  01:44   0:00 /usr/libexec/gsd-print-notifications
+diamond     2239  0.0  0.1 459968  6120 ?        Ssl  01:44   0:00 /usr/libexec/gsd-rfkill
+diamond     2240  0.0  0.1 238376  5968 ?        Ssl  01:44   0:00 /usr/libexec/gsd-screensaver-proxy
+diamond     2241  0.0  0.2 471732 12896 ?        Ssl  01:44   0:00 /usr/libexec/gsd-sharing
+diamond     2254  0.0  0.2 320912 10584 ?        Ssl  01:44   0:00 /usr/libexec/gsd-smartcard
+diamond     2255  0.0  0.2 324612 11464 ?        Ssl  01:44   0:00 /usr/libexec/gsd-sound
+diamond     2263  0.0  0.1 390724  9780 ?        Ssl  01:44   0:00 /usr/libexec/gsd-usb-protection
+diamond     2265  0.0  0.5 350760 30040 ?        Ssl  01:44   0:00 /usr/libexec/gsd-wacom
+diamond     2267  0.0  0.2 321072 10780 ?        Ssl  01:44   0:00 /usr/libexec/gsd-wwan
+diamond     2268  0.0  0.6 351824 31292 ?        Ssl  01:44   0:00 /usr/libexec/gsd-xsettings
+diamond     2312  0.0  1.1 716756 61160 ?        Sl   01:44   0:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+diamond     2350  0.0  0.1 231800  5684 ?        Sl   01:44   0:00 /usr/libexec/gsd-disk-utility-notify
+diamond     2381  0.0  0.2 345056 15236 ?        Sl   01:44   0:00 /usr/libexec/gsd-printer
+diamond     2394  0.0  0.1 169416  9240 ?        Sl   01:44   0:00 /usr/libexec/ibus-engine-simple
+diamond     2456  0.3  1.0 823096 53456 ?        Ssl  01:44   0:08 /usr/libexec/gnome-terminal-server
+diamond     2464  0.0  0.1  13884  5760 pts/0    Ss   01:44   0:00 bash
+root        2493  0.0  0.0      0     0 ?        I    01:45   0:00 [kworker/4:3-events]
+diamond     2513  0.0  0.1 165188  6620 ?        Ssl  01:45   0:00 /usr/libexec/gvfsd-metadata
+diamond     2517  0.0  0.6 425656 33436 ?        Sl   01:45   0:00 update-notifier
+root        3060  0.0  0.0   2496   504 ?        S    01:46   0:00 bpfilter_umh
+diamond     3168 14.1  8.3 3785352 428136 ?      Sl   01:46   4:59 /usr/lib/firefox/firefox -new-window
+diamond     3213  0.0  0.2 465676 10844 ?        Ssl  01:46   0:00 /usr/libexec/xdg-desktop-portal
+diamond     3217  0.0  0.1 460392  6916 ?        Ssl  01:46   0:00 /usr/libexec/xdg-document-portal
+diamond     3226  0.0  0.5 498988 30560 ?        Ssl  01:46   0:00 /usr/libexec/xdg-desktop-portal-gtk
+diamond     3260  0.0  0.8 200140 43168 ?        Sl   01:46   0:00 /usr/lib/firefox/firefox -contentproc -parentBuildID 20220322144853 -prefsLen 1 -prefMapSize 251937 -appDir /usr/lib/firefox/browser 3168 true socket
+diamond     3301  0.1  2.2 2428412 116536 ?      Sl   01:46   0:02 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 139 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     3357  0.0  1.9 2429396 97800 ?       Sl   01:46   0:01 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 4917 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     3902  0.2  1.0 333560 53800 ?        Sl   01:48   0:04 /usr/lib/firefox/firefox -contentproc -parentBuildID 20220322144853 -prefsLen 8577 -prefMapSize 251937 -appDir /usr/lib/firefox/browser 3168 true rdd
+root        3937  0.3  1.1 3439096 58732 ?       Ssl  01:48   0:07 /usr/bin/opswatclient/bin/daxz -s
+diamond     4339  0.0  0.1 453240  8152 ?        Sl   01:48   0:00 /usr/lib/speech-dispatcher-modules/sd_espeak-ng /etc/speech-dispatcher/modules/espeak-ng.conf
+diamond     4362  0.0  0.1 360064  5696 ?        Sl   01:48   0:00 /usr/lib/speech-dispatcher-modules/sd_dummy /etc/speech-dispatcher/modules/dummy.conf
+diamond     4369  0.0  0.0 162604  2280 ?        Ssl  01:48   0:00 /usr/bin/speech-dispatcher --spawn --communication-method unix_socket --socket-path /run/user/1000/speech-dispatcher/speechd.sock
+diamond     4916  0.4  2.8 2577988 146856 ?      Sl   01:48   0:08 /usr/lib/firefox/firefox -contentproc -childID 18 -isForBrowser -prefsLen 8577 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     4962  0.0  1.8 2412716 96796 ?       Sl   01:49   0:01 /usr/lib/firefox/firefox -contentproc -childID 19 -isForBrowser -prefsLen 8577 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+root        5297  0.0  0.0      0     0 ?        S<   01:49   0:00 [loop15]
+root        5307  0.0  0.0      0     0 ?        I    01:49   0:00 [kworker/0:0-events]
+diamond     5384  0.0  2.0 2418980 102900 ?      Sl   01:49   0:00 /usr/lib/firefox/firefox -contentproc -childID 20 -isForBrowser -prefsLen 8577 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5427  0.0  1.8 2410520 93292 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 21 -isForBrowser -prefsLen 8577 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5471  0.0  1.7 2404308 90384 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 22 -isForBrowser -prefsLen 8577 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5531  0.0  1.7 2404292 89836 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 23 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5566  0.0  1.8 2409636 92668 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 24 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5570  0.0  1.7 2407364 90596 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 25 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5615  0.0  1.7 2405536 90936 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 26 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5630  0.0  1.7 2405316 89648 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 27 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5670  0.0  1.7 2407384 90796 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 28 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5696  0.0  1.7 2405284 88928 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 29 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5738  0.0  1.7 2405540 90368 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 30 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5757  0.7  3.3 2503356 169636 ?      Sl   01:50   0:14 /usr/lib/firefox/firefox -contentproc -childID 31 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5788  1.9  4.0 2821372 205960 ?      Sl   01:50   0:36 /usr/lib/firefox/firefox -contentproc -childID 32 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5791  0.0  1.7 2411448 90940 ?       Sl   01:50   0:00 /usr/lib/firefox/firefox -contentproc -childID 33 -isForBrowser -prefsLen 9010 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+root        5835  0.0  0.0      0     0 ?        I    01:51   0:00 [kworker/3:0-events]
+root        5841  0.0  0.0      0     0 ?        I    01:51   0:00 [kworker/4:0-events]
+diamond     5848  0.1  2.4 2505012 126156 ?      Sl   01:51   0:03 /usr/lib/firefox/firefox -contentproc -childID 34 -isForBrowser -prefsLen 9081 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5897  8.0  2.4 2445492 125188 ?      Sl   01:51   2:27 /usr/lib/firefox/firefox -contentproc -childID 35 -isForBrowser -prefsLen 9081 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     5983  0.0  1.7 2404004 88264 ?       Sl   01:51   0:00 /usr/lib/firefox/firefox -contentproc -childID 38 -isForBrowser -prefsLen 9081 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+diamond     6035  0.0  1.4 2395056 74184 ?       Sl   01:51   0:00 /usr/lib/firefox/firefox -contentproc -childID 39 -isForBrowser -prefsLen 9081 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+root        6147  0.0  0.0      0     0 ?        I    01:54   0:00 [kworker/2:0-events]
+diamond     6157  0.0  1.4 2395056 73780 ?       Sl   01:54   0:00 /usr/lib/firefox/firefox -contentproc -childID 40 -isForBrowser -prefsLen 9081 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+root        6216  0.0  0.0      0     0 ?        I    01:55   0:00 [kworker/5:2]
+diamond     6242  0.0  1.4 2395056 74336 ?       Sl   01:56   0:00 /usr/lib/firefox/firefox -contentproc -childID 41 -isForBrowser -prefsLen 9350 -prefMapSize 251937 -jsInitLen 279424 -parentBuildID 20220322144853 -appDir /usr/lib/firefox/browser 3168 true tab
+root        6308  0.0  0.0      0     0 ?        I    01:59   0:00 [kworker/1:2-cgroup_destroy]
+diamond     6701  0.3  2.9 925868 152952 ?       SNl  02:00   0:04 /usr/bin/python3 /usr/bin/update-manager --no-update --no-focus-on-map
+root        6778  0.0  0.0      0     0 ?        I    02:03   0:00 [kworker/u12:2-events_unbound]
+root        6849  0.0  0.0      0     0 ?        I    02:08   0:00 [kworker/u12:1-ext4-rsv-conversion]
+root        6899  0.0  0.0      0     0 ?        I    02:16   0:00 [kworker/u12:0]
+root        7697  0.0  0.0      0     0 ?        I    02:20   0:00 [kworker/u12:3-events_power_efficient]
+diamond     7828  0.3  0.4 363968 22748 ?        Ssl  02:21   0:00 /usr/libexec/tracker-store
+diamond     7844  0.0  0.0  12368  3592 pts/0    S+   02:21   0:00 bash ./ps_script.sh
+diamond     7845  0.0  0.0  14364  3520 pts/0    R+   02:21   0:00 ps aux
